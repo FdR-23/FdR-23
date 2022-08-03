@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">English:<br>Hi ✋ !!! I'm Federico 👀 , student of the Full Stack web programming bootcamp of SoyHenry, I'm also a senior technician in IT infrastructure.<br><br>🔹I consider myself a proactive person, responsible, analytical and lover of everything related to technology, the IT world and development.<br><br>🔹I like to work in a team , I have good predisposition to face problems and I am always willing to learn.<br><br>🔹 Currently I have finished my studies of the bootcamp I am Henry, where I have been able to demonstrate the skills learned during the course and in the 🔎(search) for my first job as a developer to demonstrate my skills 💪 💪 💪 💪 💪 .</p>
+<p align="left">English:<br>Hi ✋ !!! I'm Federico 👀 , student of the Full Stack web programming bootcamp of SoyHenry, I'm also  technician in IT infrastructure.<br><br>🔹I consider myself a proactive person, responsible, analytical and lover of everything related to technology, the IT world and development.<br><br>🔹I like to work in a team , I have good predisposition to face problems and I am always willing to learn.<br><br>🔹 Currently I have finished my studies of the bootcamp I am Henry, where I have been able to demonstrate the skills learned during the course and in the 🔎(search) for my first job as a developer to demonstrate my skills 💪 💪 💪 💪 💪 .</p>
 
 ###
 
