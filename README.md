@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hola! Soy Federico, un desarrollador Full Stack Web. Tengo experiencia en tecnologías como JavaScript, React y Tailwind CSS, y actualmente me estoy enfocando en el desarrollo de frontend. Me considero una persona proactiva, responsable, analítica y apasionada por el mundo IT y el desarrollo.
+<p align="left">Tengo experiencia en tecnologías como JavaScript, React y Tailwind CSS, y actualmente me estoy enfocando en el desarrollo de frontend. Me considero una persona proactiva, responsable, analítica y apasionada por el mundo IT y el desarrollo.
 
 Estoy buscando nuevas oportunidades para seguir creciendo en mi carrera y estoy dispuesto a enfrentar nuevos desafíos. Me gusta trabajar en equipo, tengo buena predisposición para resolver problemas y siempre estoy dispuesto a aprender y mejorar mis habilidades. Si estás buscando a alguien con conocimientos en desarrollo Full Stack y experiencia en tecnologías como JavaScript, React y Tailwind CSS, estoy seguro de que puedo ser una gran adición a tu equipo!</p>
 
