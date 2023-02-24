@@ -6,11 +6,9 @@
 
 ###
 
-<p align="left">English:<br>Hi ✋ !!! I'm Federico 👀 , student of the Full Stack web programming bootcamp of SoyHenry, I'm also  technician in IT infrastructure.<br><br>🔹I consider myself a proactive person, responsible, analytical and lover of everything related to technology, the IT world and development.<br><br>🔹I like to work in a team , I have good predisposition to face problems and I am always willing to learn.<br><br>🔹 Currently I have finished my studies of the bootcamp I am Henry, where I have been able to demonstrate the skills learned during the course and in the 🔎(search) for my first job as a developer to demonstrate my skills 💪 💪 💪 💪 💪 .</p>
+<p align="left">Hola! Soy Federico, un desarrollador Full Stack Web. Tengo experiencia en tecnologías como JavaScript, React y Tailwind CSS, y actualmente me estoy enfocando en el desarrollo de frontend. Me considero una persona proactiva, responsable, analítica y apasionada por el mundo IT y el desarrollo.
 
-###
-
-<p align="left">Spanish:<br>Hola ✋!!! soy Federico 👀 , estúdiate del bootcamp de programación Web Full Stack de SoyHenry, también soy técnico superior en infraestructura informática.<br><br>🔹Me considero una persona proactiva, responsable, analítica, que le encanta todo lo relacionado con al tecnología, el mundo IT y el desarrollo.<br><br>🔹Me gusta trabajar en equipo , tener buena predisposición para enfrentar los problemas y siempre dispuesto a aprender.<br><br>🔹Actualmente eh finalizado mis estudios del bootcamp de Soy Henry, donde pude demostrar de las habilidades aprendidas durante el curso y en la 🔎 de mi primer empleo como programador para demostrar mis habilidades 💪 💪 💪 .</p>
+Estoy buscando nuevas oportunidades para seguir creciendo en mi carrera y estoy dispuesto a enfrentar nuevos desafíos. Me gusta trabajar en equipo, tengo buena predisposición para resolver problemas y siempre estoy dispuesto a aprender y mejorar mis habilidades. Si estás buscando a alguien con conocimientos en desarrollo Full Stack y experiencia en tecnologías como JavaScript, React y Tailwind CSS, estoy seguro de que puedo ser una gran adición a tu equipo!</p>
 
 ###
 
