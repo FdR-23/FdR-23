@@ -10,7 +10,11 @@
 
 Estoy buscando nuevas oportunidades para seguir creciendo en mi carrera y estoy dispuesto a enfrentar nuevos desafíos. Me gusta trabajar en equipo, tengo buena predisposición para resolver problemas y siempre estoy dispuesto a aprender y mejorar mis habilidades. Si estás buscando a alguien con conocimientos en desarrollo Full Stack y experiencia en tecnologías como JavaScript, React y Tailwind CSS, estoy seguro de que puedo ser una gran adición a tu equipo!</p>
 
-Aquí les dejo el enlace a mi portfolio donde pueden encontrar más información sobre mi experiencia y proyectos: https://portfolio-fdr.vercel.app/. ¡Gracias por visitarlo!
+Aquí les dejo el enlace a mi portfolio donde pueden encontrar más información sobre mi experiencia y proyectos:
+
+https://portfolio-fdr.vercel.app/.
+
+¡Gracias por visitarlo!
 
 ###
 
