@@ -6,13 +6,10 @@
 
 ###
 
-<p align="left">Tengo experiencia en tecnologías como JavaScript, React , Tailwind CSS entre otras, actualmente me estoy enfocando en el desarrollo de frontend. Me considero una persona proactiva, responsable, analítica y apasionada por el mundo IT y el desarrollo.
 
-Estoy buscando nuevas oportunidades para seguir creciendo en mi carrera y estoy dispuesto a enfrentar nuevos desafíos. Me gusta trabajar en equipo, tengo buena predisposición para resolver problemas y siempre estoy dispuesto a aprender y mejorar mis habilidades. Si estás buscando a alguien con conocimientos en desarrollo Full Stack y experiencia en tecnologías como JavaScript, React y Tailwind CSS, estoy seguro de que puedo ser una gran adición a tu equipo!</p>
+<p align="left">Desarrollador web con experiencia en JavaScript, React y Tailwind CSS, y una pasión por el mundo de la tecnología y el desarrollo. Me considero una persona proactiva, analítica y responsable que está buscando nuevos desafíos para seguir creciendo en mi carrera.
 
-Aquí les dejo el enlace a mi portfolio donde pueden encontrar más información sobre mi experiencia y proyectos:
-
-https://portfolio-fdr.vercel.app/.
+Me gusta trabajar en equipo y siempre estoy dispuesto a aprender y mejorar mis habilidades. Si estás buscando a alguien con conocimientos en desarrollo Full Stack, puedo ser una gran adición a tu equipo. Echa un vistazo a mi portfolio para obtener más información sobre mi experiencia y proyectos: https://portfolio-fdr.vercel.app/.
 
 ¡Gracias por visitarlo!
 
